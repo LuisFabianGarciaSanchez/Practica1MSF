@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Garcia Sanchez Luis Fabian \[22212254]; L22212254tectijuana.edu.mx
+Garcia Sanchez Luis Fabian \[22212254]; L22212254@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
